@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione>
+    <creatura>
+        <bestia>
+            <nome>Raptor Codarossa</nome>
+            <costoMana>6</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>Base</espansione>
+            <effetto>Rabbia: +3 attacco.</effetto>
+            <attacco>3</attacco>
+            <vita>2</vita>
+        </bestia>
+    </creatura>
+    <creatura>
+        <bestia>
+            <nome>Gufo Beccoforte</nome>
+            <costoMana>3</costoMana>
+            <rarita>Comune</rarita>
+            <espansione>Base</espansione>
+            <effetto>Grido di Battaglia: Silenzia un servitore.</effetto>
+            <attacco>2</attacco>
+            <vita>1</vita>
+        </bestia>
+    </creatura>
+    <creatura>
+        <bestia>
+            <nome>Tigre di Rovotorto</nome>
+            <costoMana>3</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>Furtivita'</effetto>
+            <attacco>5</attacco>
+            <vita>5</vita>
+        </bestia>
+    </creatura>
+    <creatura>
+        <demone>
+            <nome>Acidalingua</nome>
+            <costoMana>7</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>Classica</espansione>
+            <effetto></effetto>
+            <attacco>3</attacco>
+            <vita>2</vita>
+        </demone>
+    </creatura>
+    <creatura>
+        <demone>
+            <nome>Ombra del vuoto</nome>
+            <costoMana>1</costoMana>
+            <rarita>Comune</rarita>
+            <espansione>Base</espansione>
+            <effetto>Provocazione</effetto>
+            <attacco>1</attacco>
+            <vita>3</vita>
+        </demone>
+    </creatura>
+    <creatura>
+        <murloc>
+            <nome>Imp delle Fiamme</nome>
+            <costoMana>1</costoMana>
+            <rarita>Rara</rarita>
+            <espansione>Classica</espansione>
+            <effetto>Grido di Battaglia: scarta una carta casuale.</effetto>
+            <attacco>3</attacco>
+            <vita>3</vita>
+        </murloc>
+    </creatura>
+    <creatura>
+        <demone>
+            <nome>Demone Guardiano</nome>
+            <costoMana>5</costoMana>
+            <rarita>Rara</rarita>
+            <espansione>Classica</espansione>
+            <effetto>Carica. Grido di Battaglia: scarta 2 carte casuali.</effetto>
+            <attacco>5</attacco>
+            <vita>7</vita>
+        </demone>
+    </creatura>
+    <creatura>
+        <demone>
+            <nome>Sire Jaraxxus</nome>
+            <costoMana>9</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>Classica</espansione>
+            <effetto>Grido di Battaglia: distruggi il tuo eroe e lo sostituisce con Sire Jaraxxus.</effetto>
+            <attacco>3</attacco>
+            <vita>15</vita>
+        </demone>
+    </creatura>
+    <creatura>
+        <demone>
+            <nome>Mal'Ganis</nome>
+            <costoMana>9</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>Gli altri tuoi Demoni hanno +2/+2. Il tuo eroe è immune.</effetto>
+            <attacco>3</attacco>
+            <vita>15</vita>
+        </demone>
+    </creatura>
+    <creatura>
+        <drago>
+            <nome>Draco di Zaffiro</nome>
+            <costoMana>5</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>Classica</espansione>
+            <effetto>+1 Danni Magici. Grido di Battaglia: pesca una carta.</effetto>
+            <attacco>4</attacco>
+            <vita>4</vita>
+        </drago>
+    </creatura>
+    <creatura>
+        <drago>
+            <nome>Nozdormu</nome>
+            <costoMana>9</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>I giocatori hanno solo 15 secondi per completare il proprio turno.</effetto>
+            <attacco>8</attacco>
+            <vita>8</vita>
+        </drago>
+    </creatura>
+    <creatura>
+        <murloc>
+            <nome>Ser Pinnus Mrrgglton</nome>
+            <costoMana>1</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>Grido di Battaglia: Rinvieni un nuovo Potere Eroe di base.</effetto>
+            <attacco>1</attacco>
+            <vita>3</vita>
+        </murloc>
+    </creatura>
+    <creatura>
+        <murloc>
+            <nome>Pestapaludi</nome>
+            <costoMana>2</costoMana>
+            <rarita>Comune</rarita>
+            <espansione>Base</espansione>
+            <effetto></effetto>
+            <attacco>3</attacco>
+            <vita>2</vita>
+        </murloc>
+    </creatura>
+    <creatura>
+        <murloc>
+            <nome>Oracolo Lucefredda</nome>
+            <costoMana>3</costoMana>
+            <rarita>Rara</rarita>
+            <espansione>Classica</espansione>
+            <effetto>Grido di Battaglia: ogni giocatore pesca 2 carte.</effetto>
+            <attacco>2</attacco>
+            <vita>2</vita>
+        </murloc>
+    </creatura>
+    <creatura>
+        <murloc>
+            <nome>Condottiero Murloc</nome>
+            <costoMana>3</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>TUTTI gli altri Murloc hanno +2/+1</effetto>
+            <attacco>3</attacco>
+            <vita>3</vita>
+        </murloc>
+    </creatura>
+    <creatura>
+        <pirata>
+            <nome>Gran Capitano Kragg</nome>
+            <costoMana>7</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>Classica</espansione>
+            <effetto>Carrrica. Costa (1) in meno per ogni Pirata che controlli.</effetto>
+            <attacco>4</attacco>
+            <vita>6</vita>
+        </pirata>
+    </creatura>
+    <creatura>
+        <neutrale>
+            <nome>Manichino a Molla</nome>
+            <costoMana>0</costoMana>
+            <rarita>Rara</rarita>
+            <espansione>Base</espansione>
+            <effetto>Provocazione</effetto>
+            <attacco>0</attacco>
+            <vita>2</vita>
+        </neutrale>
+    </creatura>
+    <creatura>
+        <neutrale>
+            <nome>Sergente Violento</nome>
+            <costoMana>4</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>Grido di Battaglia: +2 Attacco a un servitore per questo turno.</effetto>
+            <attacco>2</attacco>
+            <vita>1</vita>
+        </neutrale>
+    </creatura>
+    <magia>
+        <nome>Pugnalata alle Spalle</nome>
+        <costoMana>0</costoMana>
+        <rarita>Comune</rarita>
+        <espansione>Base</espansione>
+        <effetto>Infligge 2 danni a un servitore danneggiato.</effetto>
+    </magia>
+    <magia>
+        <nome>Immagine Speculare</nome>
+        <costoMana>1</costoMana>
+        <rarita>Comune</rarita>
+        <espansione>Base</espansione>
+        <effetto>Evoca due servitori 0/2 con Provocazione.</effetto>
+    </magia>
+    <magia>
+        <nome>Spirito Ancestrale</nome>
+        <costoMana>4</costoMana>
+        <rarita>Rara</rarita>
+        <espansione>Classica</espansione>
+        <effetto>Fornisce &quot;Rantolo di morte: rievoca questo servitore&quot; a un servitore.</effetto>
+    </magia>
+    <magia>
+        <nome>Metamorfosi</nome>
+        <costoMana>4</costoMana>
+        <rarita>Epica</rarita>
+        <espansione>FIUP League</espansione>
+        <effetto>Trasforma un servitore in una Pecora 1/1.</effetto>
+    </magia>
+    <magia>
+        <nome>Richiamo della selva</nome>
+        <costoMana>10</costoMana>
+        <rarita>Epica</rarita>
+        <espansione>Classica</espansione>
+        <effetto>Evoca Leokk, Huffer e Misha.</effetto>
+    </magia>
+    <creatura>
+        <demone>
+            <nome>Imp avvelenato</nome>
+            <costoMana>4</costoMana>
+            <rarita>Epica</rarita>
+            <espansione>FIUP League</espansione>
+            <effetto>Se questa creatura infligge danno ad un'altra creatura, distruggi quella creatura.</effetto>
+            <attacco>2</attacco>
+            <vita>5</vita>
+        </demone>
+    </creatura>
+    <magia>
+        <nome>Arriva la bamba</nome>
+        <costoMana>10</costoMana>
+        <rarita>Leggendaria</rarita>
+        <espansione>FIUP League</espansione>
+        <effetto>Infiliggi 10 danni, a te stesso.</effetto>
+    </magia>
+    <creatura>
+        <neutrale>
+            <nome>Malok</nome>
+            <costoMana>15</costoMana>
+            <rarita>Leggendaria</rarita>
+            <espansione>Base</espansione>
+            <effetto>Costa (1) in meno per ogni servitore distrutto in questa partita.</effetto>
+            <attacco>15</attacco>
+            <vita>15</vita>
+        </neutrale>
+    </creatura>
+</collezione>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utenti>
+    <amministratore>
+        <admin>
+            <nome>admin</nome>
+            <cognome>admin</cognome>
+            <username>admin</username>
+            <password>adminadmin</password>
+            <email>admin@admin.com</email>
+        </admin>
+    </amministratore>
+    <amministratore>
+        <moderatore>
+            <nome>moderatore</nome>
+            <cognome>moderatore</cognome>
+            <username>moderatore</username>
+            <password>moderatore</password>
+            <email>mod@mod.com</email>
+        </moderatore>
+    </amministratore>
+    <utentepro>
+        <username>utentepro</username>
+        <password>utentepro</password>
+        <email>pro@pro.com</email>
+    </utentepro>
+    <utentefree>
+        <username>utentefree</username>
+        <password>utentefree</password>
+        <email>free@free.com</email>
+    </utentefree>
+</utenti>
